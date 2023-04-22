@@ -1,6 +1,6 @@
-# Athena
+# TrunkmakBot for Fortnite / TrunkmakBotFN by TRUNKMAK
 
-Athena is a utility which generates the current Fortnite Item Shop into a stylized image and shares it on Twitter.
+TrunkmakBotFN is a utility which generates the current Fortnite Item Shop into a stylized image and shares it on Twitter.
 
 As seen on [@FNMasterCom](https://twitter.com/FNMasterCom/status/1197666123078160386?s=20)...
 
@@ -29,7 +29,7 @@ Open `configuration_example.json` in your preferred text editor, fill the config
 
 Edit the images found in `assets/images/` to your liking, avoid changing image dimensions for optimal results.
 
-Athena is designed to be ran using a scheduler, such as [cron](https://en.wikipedia.org/wiki/Cron).
+TrunkmakBotFN is designed to be ran using a scheduler, such as [cron](https://en.wikipedia.org/wiki/Cron).
 
 ```
 python itemshop.py
